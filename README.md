@@ -4,7 +4,5 @@
 <a href="mailto:julian08@cock.li">Email me</a>
 
 <hr>
----
 Latest Github Activity
-![Juliaria08's github stats](https://github-readme-stats.vercel.app/api?username=Juliaria08&show_icons=true&theme=dracula)
----
+<img align="left" alt="Juliaria08's github stats" src="https://github-readme-stats.vercel.app/api?username=Juliaria08&show_icons=true&theme=dracula"/>
