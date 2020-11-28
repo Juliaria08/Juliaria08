@@ -4,6 +4,11 @@
 <a href="mailto:julian08@cock.li">Email me</a>
 
 <hr>
+
+<img align="left" alt="Dots Repo | Extra Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliaria08&repo=dot"/>
+<img align="left" alt="Md Repo | Extra Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliaria08&repo=md"/>
+
+<hr>
 <details>
 <summary>Latest Github Activity</summary>
 
