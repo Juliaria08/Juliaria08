@@ -15,6 +15,8 @@
 <img align="left" alt="Juliaria08's Github stats" src="https://github-readme-stats.vercel.app/api?username=Juliaria08&show_icons=true&theme=dracula"/>
 </details>
 
+<br />
+
 <details>
 <summary>Top Languages</summary>
 
