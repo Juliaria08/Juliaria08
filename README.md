@@ -4,7 +4,8 @@
 
 <p>I'm currently learn to dockerize and and bit of nginx and a bit of bind ns</p>
 
-<br />
-<br />
-
 <hr>
+---
+Latest Github Activity
+![Juliaria08's github stats](https://github-readme-stats.vercel.app/api?username=Juliaria08&show_icons=true&theme=dracula)
+---
