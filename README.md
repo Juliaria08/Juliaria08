@@ -7,5 +7,4 @@
 <br />
 <br />
 
-[reddit]: https://reddit.com/u/Juliaria08
-[dotfiles]: https://codeberg.org/julianmarcos/dot
+<hr>
