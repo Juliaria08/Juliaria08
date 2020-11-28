@@ -5,8 +5,8 @@
 
 <hr>
 
-<img align="left" alt="Dots Repo | Extra Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliaria08&repo=dot"/>
-<img align="left" alt="Md Repo | Extra Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliaria08&repo=md"/>
+<a href="https://nxnt.link/dot"><img align="rigth" alt="Dots Repo | Extra Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliaria08&repo=dot"/></a>
+<a href="https://nxnt.link/md"><img align="rigth" alt="Md Repo | Extra Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliaria08&repo=md"/></a>
 
 <hr>
 <details>
