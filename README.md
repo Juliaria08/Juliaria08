@@ -12,7 +12,7 @@
 <details>
 <summary>Latest Github Activity</summary>
 
-<img align="left" alt="Juliaria08's Github stats" src="https://github-readme-stats.vercel.app/api?username=Juliaria08&show_icons=true&theme=dracula"/>
+<img align="center" alt="Juliaria08's Github stats" src="https://github-readme-stats.vercel.app/api?username=Juliaria08&show_icons=true&theme=dracula"/>
 </details>
 
 <br />
@@ -20,5 +20,5 @@
 <details>
 <summary>Top Languages</summary>
 
-<img align="left" alt="Juliaria08's Github top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliaria08&layout=compact"/>
+<img align="center" alt="Juliaria08's Github top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliaria08&layout=compact"/>
 </details>
