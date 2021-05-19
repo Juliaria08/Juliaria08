@@ -1,12 +1,17 @@
 <h2 align="center">I'm Julian Marcos</h2>
 <br>
-<p>I'm currently learn to dockerize and and bit of nginx and a bit of bind ns</p>
-<a href="mailto:julian08@cock.li">Email me</a>
+<p>I am currently trying to learn PHP ( not much free time ) and i have learned a bit of nginx and a bit of bind nameservers</p>
+<ul>
+<li><p>NGINX ( I have setup a few things already such as subdomains let's encrypt with certbot && Location blocks && PHP-FPM )</p></li>
+<li><p>NameServers ( I have setup 2 name servers at home and they are running a internal domain called `mopi.local`</p></li>
+<li><p>PHP ( I am tring to learn basics but i get just reading docs and using some things, as it is not too complicated )</p></li>
+</ul>
+<a href="http://scr.im/jmjl">Email me ( This link is not a mailto:// )</a>
 
 <hr>
 
-<a href="https://happier.allowed.org/dots"><img align="rigth" alt="Dots Repo | Extra Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliaria08&repo=dot"/></a>
-<a href="https://happier.allowed.org/md"><img align="rigth" alt="Md Repo | Extra Pin" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliaria08&repo=md"/></a>
+<a href="https://happier.allowed.org/dots">DotFiles Repository ( .* )</a>
+<a href="https://happier.allowed.org/md">MarkDown Repository ( *.md )</a>
 
 <hr>
 <details>
