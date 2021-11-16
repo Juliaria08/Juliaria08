@@ -13,8 +13,8 @@
 
 <ul>
 <h3>Some of my project(s)</h3>
-<li><a href="https://happier.allowed.org/dots">DotFiles Repository - .* </a></li>
-<li><a href="https://happier.allowed.org/md">MarkDown Repository - *.md </a></li>
+<li><a href="https://github.com/Juliaria08/dot">DotFiles Repository - .* </a></li>
+<li><a href="https://github.com/Juliaria08/md">MarkDown Repository - *.md </a></li>
 </ul>
 
 <hr>
